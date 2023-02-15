@@ -374,6 +374,7 @@ h6,
   font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
+  margin-left: 75;
   letter-spacing: 1px;
   display: inline-block;
   padding: 8px 28px;
@@ -996,7 +997,7 @@ section {
 
 /*--------------------------------------------------------------
 # Clients
---------------------------------------------------------------*/
+--------------------------------------------------------------
 .clients .clients-slider .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
@@ -1022,7 +1023,7 @@ section {
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #eb5d1e;
 }
-
+*/
 /*--------------------------------------------------------------
 # Contact Us
 --------------------------------------------------------------*/
@@ -1106,6 +1107,7 @@ section {
   border-bottom: 3px solid #eb5d1e;
   padding: 30px;
   background: #fff;
+  align-items: center;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -1117,7 +1119,7 @@ section {
   display: none;
   color: #fff;
   background: #ed3c0d;
-  text-align: left;
+  text-align: center;
   padding: 15px;
   font-weight: 600;
 }
